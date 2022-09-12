@@ -1,0 +1,25 @@
+.show-contents-max {
+    overflow: hidden;
+    max-height: 100vh;
+    transition: max-height 0.25s ease-in-out;
+}
+
+.show-contents-origin {
+    max-height: 300px;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+}
+
+.show-contents-middle {
+    max-height: 600px;
+    overflow: hidden;
+    transition: max-height 0.25s ease-in;
+}
+
+.content {
+    height: 1000px;
+    background-color: #a00;
+}
+.hide {
+    display: none;
+}
