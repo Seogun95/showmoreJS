@@ -14,7 +14,7 @@
 
 # DEMO
 
-https://codepen.io/seogun95/pen/oNdzezJ
+[showmoreJS 데모 페이지 - codepen](https://codepen.io/seogun95/pen/oNdzezJ/?target=_blank)
 
 ## 기본 CSS 스타일
 
