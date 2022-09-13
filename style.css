@@ -59,7 +59,8 @@ img {
     padding: 2rem;
 }
 
-.someContainer:not(.show-contents-max):after {
+.show-contents-origin:after,
+.show-contents-middle:after {
     background: linear-gradient(180deg, rgba(38, 38, 38, 0), #181818);
     bottom: 0;
     content: '';
